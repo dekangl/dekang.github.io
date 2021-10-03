@@ -6,14 +6,32 @@
     <description>Recent content on 刘德康</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Sep 2021 20:26:07 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Oct 2021 16:54:51 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A</title>
+      <link>http://example.org/posts/a/</link>
+      <pubDate>Sun, 03 Oct 2021 16:54:51 +0800</pubDate>
+      
+      <guid>http://example.org/posts/a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://example.org/posts/hello-world/</link>
+      <pubDate>Sun, 26 Sep 2021 22:27:13 +0800</pubDate>
+      
+      <guid>http://example.org/posts/hello-world/</guid>
+      <description>Hello World </description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>http://example.org/posts/my-first-post/</link>
       <pubDate>Sun, 26 Sep 2021 20:26:07 +0800</pubDate>
       
       <guid>http://example.org/posts/my-first-post/</guid>
-      <description>这是我的第一篇博客 ##我会写我和小詹的故事</description>
+      <description>这是我的第一篇博客 第一次学习 勉勉强强 还不是很明白 继续努力 </description>
     </item>
     
   </channel>
